@@ -1,0 +1,1 @@
+Hi I am writing content in to the java.file.txt
